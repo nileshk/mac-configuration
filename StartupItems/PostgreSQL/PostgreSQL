@@ -1,0 +1,41 @@
+#!/bin/sh
+
+# Source common setup, including /etc/hostconfig
+. /etc/rc.common
+
+FINK_BIN='/sw/bin';
+PGSQL_HOME='/sw/var/postgresql';
+PGSQL_USER='pgsql';
+
+StartService ( ) {
+    # Set kernel parameters
+    sysctl -w kern.sysv.shmmax=167772160 
+    sysctl -w kern.sysv.shmmin=1 
+    sysctl -w kern.sysv.shmseg=8 
+    sysctl -w kern.sysv.shmall=65536 
+
+    # Don't start unless PostgreSQL is enabled in /etc/hostconfig
+    if [ "${POSTGRESQL:-NO-}" = "-YES-" ]; then
+        ConsoleMessage "Starting PostgreSQL"
+        sudo -u ${PGSQL_USER} ${FINK_BIN}/pg_ctl \
+            -D ${PGSQL_HOME}/data \
+            -l ${PGSQL_HOME}/logfile start
+    fi
+}
+
+StopService ( ) {
+    ConsoleMessage "Stopping PostgreSQL"
+    sudo -u ${PGSQL_USER} ${FINK_BIN}/pg_ctl -D ${PGSQL_HOME}/data stop
+}
+
+RestartService ( ) {
+    if [ "${POSTGRESQL:-NO-}" = "-YES-" ]; then
+        ConsoleMessage "Restarting PostgreSQL"
+        StopService
+        StartService
+    else
+        StopService
+    fi
+}
+
+RunService "$1"
