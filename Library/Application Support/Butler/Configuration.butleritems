@@ -1,0 +1,2143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Additional Settings</key>
+	<dict>
+		<key>Multistrip</key>
+		<true/>
+	</dict>
+	<key>Children</key>
+	<array>
+		<dict>
+			<key>Children</key>
+			<array>
+				<dict>
+					<key>Additional Settings</key>
+					<dict>
+						<key>Assigned Abbreviations Only</key>
+						<false/>
+						<key>Flow</key>
+						<false/>
+						<key>Postpone Searching</key>
+						<false/>
+						<key>Postpone Searching Interval</key>
+						<integer>100</integer>
+						<key>Sort By Category</key>
+						<true/>
+					</dict>
+					<key>Hot Key</key>
+					<dict>
+						<key>Code</key>
+						<integer>49</integer>
+						<key>Key</key>
+						<string>⌘Space</string>
+						<key>Modifiers</key>
+						<integer>1048840</integer>
+					</dict>
+					<key>Task</key>
+					<string>Enter abbreviation...</string>
+					<key>Title</key>
+					<string>Enter abbreviation...</string>
+					<key>Type</key>
+					<string>Control</string>
+				</dict>
+				<dict>
+					<key>Task</key>
+					<string>Customize configuration...</string>
+					<key>Title</key>
+					<string>Customize...</string>
+					<key>Type</key>
+					<string>Control</string>
+				</dict>
+				<dict>
+					<key>Engine</key>
+					<string>Webster</string>
+					<key>Title</key>
+					<string>Web Search: Webster</string>
+					<key>Type</key>
+					<string>Smart Item: Web Search</string>
+				</dict>
+				<dict>
+					<key>Additional Settings</key>
+					<dict>
+						<key>Keystroke Keys</key>
+						<array/>
+					</dict>
+					<key>Hot Key</key>
+					<dict>
+						<key>Applications</key>
+						<dict>
+							<key>Names</key>
+							<string>Google Chrome</string>
+							<key>Rule</key>
+							<string>only</string>
+						</dict>
+						<key>Code</key>
+						<integer>2</integer>
+						<key>Key</key>
+						<string>⌘D</string>
+						<key>Modifiers</key>
+						<integer>1048840</integer>
+					</dict>
+					<key>Task</key>
+					<string>Keystrokes</string>
+					<key>Title</key>
+					<string>CMD-D for Google Bookmarks Javascript in Chrome</string>
+					<key>Type</key>
+					<string>Smart Item: Monolith</string>
+				</dict>
+				<dict>
+					<key>Additional Settings</key>
+					<dict>
+						<key>Keystroke Keys</key>
+						<array>
+							<dict>
+								<key>Character</key>
+								<string></string>
+								<key>Code</key>
+								<integer>126</integer>
+								<key>Key</key>
+								<string>⌘⇡</string>
+								<key>Modifiers</key>
+								<integer>11534600</integer>
+							</dict>
+						</array>
+					</dict>
+					<key>Hot Key</key>
+					<dict>
+						<key>Applications</key>
+						<dict>
+							<key>Names</key>
+							<string>Terminal, Emacs, VMware Fusion, SQL_Developer</string>
+							<key>Rule</key>
+							<string>not</string>
+						</dict>
+						<key>Code</key>
+						<integer>43</integer>
+						<key>Key</key>
+						<string>⇧⌥&lt;</string>
+						<key>Modifiers</key>
+						<integer>655650</integer>
+					</dict>
+					<key>Task</key>
+					<string>Keystrokes</string>
+					<key>Title</key>
+					<string>M-&lt;</string>
+					<key>Type</key>
+					<string>Smart Item: Monolith</string>
+				</dict>
+				<dict>
+					<key>Additional Settings</key>
+					<dict>
+						<key>Keystroke Keys</key>
+						<array>
+							<dict>
+								<key>Character</key>
+								<string></string>
+								<key>Code</key>
+								<integer>125</integer>
+								<key>Key</key>
+								<string>⌘⇣</string>
+								<key>Modifiers</key>
+								<integer>11534600</integer>
+							</dict>
+						</array>
+					</dict>
+					<key>Hot Key</key>
+					<dict>
+						<key>Applications</key>
+						<dict>
+							<key>Names</key>
+							<string>Terminal, Emacs, VMware Fusion, SQL_Developer, conkeror</string>
+							<key>Rule</key>
+							<string>not</string>
+						</dict>
+						<key>Code</key>
+						<integer>47</integer>
+						<key>Key</key>
+						<string>⇧⌥&gt;</string>
+						<key>Modifiers</key>
+						<integer>655650</integer>
+					</dict>
+					<key>Task</key>
+					<string>Keystrokes</string>
+					<key>Title</key>
+					<string>M-&gt;</string>
+					<key>Type</key>
+					<string>Smart Item: Monolith</string>
+				</dict>
+				<dict>
+					<key>Additional Settings</key>
+					<dict>
+						<key>Keystroke Keys</key>
+						<array>
+							<dict>
+								<key>Character</key>
+								<string></string>
+								<key>Code</key>
+								<integer>123</integer>
+								<key>Key</key>
+								<string>⌥⇠</string>
+								<key>Modifiers</key>
+								<integer>11010336</integer>
+							</dict>
+						</array>
+					</dict>
+					<key>Hot Key</key>
+					<dict>
+						<key>Applications</key>
+						<dict>
+							<key>Names</key>
+							<string>Firefox, Postbox, Eclipse, Gumbo</string>
+							<key>Rule</key>
+							<string>only</string>
+						</dict>
+						<key>Code</key>
+						<integer>11</integer>
+						<key>Key</key>
+						<string>⌥B</string>
+						<key>Modifiers</key>
+						<integer>524576</integer>
+					</dict>
+					<key>Task</key>
+					<string>Keystrokes</string>
+					<key>Title</key>
+					<string>M-b</string>
+					<key>Type</key>
+					<string>Smart Item: Monolith</string>
+				</dict>
+				<dict>
+					<key>Additional Settings</key>
+					<dict>
+						<key>Keystroke Keys</key>
+						<array>
+							<dict>
+								<key>Character</key>
+								<string></string>
+								<key>Code</key>
+								<integer>124</integer>
+								<key>Key</key>
+								<string>⌥⇢</string>
+								<key>Modifiers</key>
+								<integer>11010336</integer>
+							</dict>
+						</array>
+					</dict>
+					<key>Hot Key</key>
+					<dict>
+						<key>Applications</key>
+						<dict>
+							<key>Names</key>
+							<string>Firefox, Postbox, Eclipse, Gumbo</string>
+							<key>Rule</key>
+							<string>only</string>
+						</dict>
+						<key>Code</key>
+						<integer>3</integer>
+						<key>Key</key>
+						<string>⌥F</string>
+						<key>Modifiers</key>
+						<integer>524576</integer>
+					</dict>
+					<key>Task</key>
+					<string>Keystrokes</string>
+					<key>Title</key>
+					<string>M-f</string>
+					<key>Type</key>
+					<string>Smart Item: Monolith</string>
+				</dict>
+				<dict>
+					<key>Additional Settings</key>
+					<dict>
+						<key>Keystroke Keys</key>
+						<array>
+							<dict>
+								<key>Character</key>
+								<string></string>
+								<key>Code</key>
+								<integer>116</integer>
+								<key>Key</key>
+								<string>⇞</string>
+								<key>Modifiers</key>
+								<integer>8388864</integer>
+							</dict>
+						</array>
+					</dict>
+					<key>Hot Key</key>
+					<dict>
+						<key>Applications</key>
+						<dict>
+							<key>Names</key>
+							<string>Terminal, Emacs, VMware Fusion, conkeror</string>
+							<key>Rule</key>
+							<string>not</string>
+						</dict>
+						<key>Code</key>
+						<integer>9</integer>
+						<key>Key</key>
+						<string>⌥V</string>
+						<key>Modifiers</key>
+						<integer>524576</integer>
+					</dict>
+					<key>Task</key>
+					<string>Keystrokes</string>
+					<key>Title</key>
+					<string>M-v</string>
+					<key>Type</key>
+					<string>Smart Item: Monolith</string>
+				</dict>
+				<dict>
+					<key>Additional Settings</key>
+					<dict>
+						<key>Keystroke Keys</key>
+						<array>
+							<dict>
+								<key>Character</key>
+								<string></string>
+								<key>Code</key>
+								<integer>121</integer>
+								<key>Key</key>
+								<string>⇟</string>
+								<key>Modifiers</key>
+								<integer>8388864</integer>
+							</dict>
+						</array>
+					</dict>
+					<key>Hot Key</key>
+					<dict>
+						<key>Applications</key>
+						<dict>
+							<key>Names</key>
+							<string>Terminal, Emacs, VMware Fusion, conkeror</string>
+							<key>Rule</key>
+							<string>not</string>
+						</dict>
+						<key>Code</key>
+						<integer>9</integer>
+						<key>Key</key>
+						<string>^V</string>
+						<key>Modifiers</key>
+						<integer>262401</integer>
+					</dict>
+					<key>Task</key>
+					<string>Keystrokes</string>
+					<key>Title</key>
+					<string>C-v</string>
+					<key>Type</key>
+					<string>Smart Item: Monolith</string>
+				</dict>
+				<dict>
+					<key>Additional Settings</key>
+					<dict>
+						<key>Keystroke Keys</key>
+						<array>
+							<dict>
+								<key>Character</key>
+								<string>z</string>
+								<key>Code</key>
+								<integer>6</integer>
+								<key>Key</key>
+								<string>⌘Z</string>
+								<key>Modifiers</key>
+								<integer>1048840</integer>
+							</dict>
+						</array>
+					</dict>
+					<key>Hot Key</key>
+					<dict>
+						<key>Applications</key>
+						<dict>
+							<key>Names</key>
+							<string>Terminal, Emacs, VMware Fusion, conkeror</string>
+							<key>Rule</key>
+							<string>not</string>
+						</dict>
+						<key>Code</key>
+						<integer>27</integer>
+						<key>Key</key>
+						<string>⇧^_</string>
+						<key>Modifiers</key>
+						<integer>393475</integer>
+					</dict>
+					<key>Task</key>
+					<string>Keystrokes</string>
+					<key>Title</key>
+					<string>C-_</string>
+					<key>Type</key>
+					<string>Smart Item: Monolith</string>
+				</dict>
+				<dict>
+					<key>Additional Settings</key>
+					<dict>
+						<key>Keystroke Keys</key>
+						<array>
+							<dict>
+								<key>Character</key>
+								<string></string>
+								<key>Code</key>
+								<integer>12</integer>
+								<key>Key</key>
+								<string>^⌥Q</string>
+								<key>Modifiers</key>
+								<integer>786721</integer>
+							</dict>
+						</array>
+					</dict>
+					<key>Hot Key</key>
+					<dict>
+						<key>Applications</key>
+						<dict>
+							<key>Names</key>
+							<string>Firefox</string>
+							<key>Rule</key>
+							<string>only</string>
+						</dict>
+						<key>Code</key>
+						<integer>49</integer>
+						<key>Key</key>
+						<string>^Space</string>
+						<key>Modifiers</key>
+						<integer>262401</integer>
+					</dict>
+					<key>Task</key>
+					<string>Keystrokes</string>
+					<key>Title</key>
+					<string>C-space (Firemacs proxy)</string>
+					<key>Type</key>
+					<string>Smart Item: Monolith</string>
+				</dict>
+				<dict>
+					<key>Additional Settings</key>
+					<dict>
+						<key>Keystroke Keys</key>
+						<array>
+							<dict>
+								<key>Character</key>
+								<string></string>
+								<key>Code</key>
+								<integer>13</integer>
+								<key>Key</key>
+								<string>^⌥W</string>
+								<key>Modifiers</key>
+								<integer>786721</integer>
+							</dict>
+						</array>
+					</dict>
+					<key>Hot Key</key>
+					<dict>
+						<key>Applications</key>
+						<dict>
+							<key>Names</key>
+							<string>Firefox</string>
+							<key>Rule</key>
+							<string>only</string>
+						</dict>
+						<key>Code</key>
+						<integer>13</integer>
+						<key>Key</key>
+						<string>⌥W</string>
+						<key>Modifiers</key>
+						<integer>524576</integer>
+					</dict>
+					<key>Task</key>
+					<string>Keystrokes</string>
+					<key>Title</key>
+					<string>M-w (Firemacs proxy)</string>
+					<key>Type</key>
+					<string>Smart Item: Monolith</string>
+				</dict>
+				<dict>
+					<key>Additional Settings</key>
+					<dict>
+						<key>Keystroke Keys</key>
+						<array>
+							<dict>
+								<key>Character</key>
+								<string></string>
+								<key>Code</key>
+								<integer>2</integer>
+								<key>Key</key>
+								<string>^⌥D</string>
+								<key>Modifiers</key>
+								<integer>786721</integer>
+							</dict>
+						</array>
+					</dict>
+					<key>Hot Key</key>
+					<dict>
+						<key>Applications</key>
+						<dict>
+							<key>Names</key>
+							<string>Firefox</string>
+							<key>Rule</key>
+							<string>only</string>
+						</dict>
+						<key>Code</key>
+						<integer>2</integer>
+						<key>Key</key>
+						<string>⌥D</string>
+						<key>Modifiers</key>
+						<integer>524576</integer>
+					</dict>
+					<key>Task</key>
+					<string>Keystrokes</string>
+					<key>Title</key>
+					<string>M-d (Firemacs proxy)</string>
+					<key>Type</key>
+					<string>Smart Item: Monolith</string>
+				</dict>
+				<dict>
+					<key>Additional Settings</key>
+					<dict>
+						<key>Keystroke Keys</key>
+						<array>
+							<dict>
+								<key>Character</key>
+								<string></string>
+								<key>Code</key>
+								<integer>125</integer>
+								<key>Key</key>
+								<string>⇣</string>
+								<key>Modifiers</key>
+								<integer>10486016</integer>
+							</dict>
+						</array>
+					</dict>
+					<key>Hot Key</key>
+					<dict>
+						<key>Applications</key>
+						<dict>
+							<key>Names</key>
+							<string>Finder, Eclipse, Gumbo, Chrome, Google Chrome</string>
+							<key>Rule</key>
+							<string>only</string>
+						</dict>
+						<key>Code</key>
+						<integer>45</integer>
+						<key>Key</key>
+						<string>^N</string>
+						<key>Modifiers</key>
+						<integer>2359553</integer>
+					</dict>
+					<key>Task</key>
+					<string>Keystrokes</string>
+					<key>Title</key>
+					<string>C-n</string>
+					<key>Type</key>
+					<string>Smart Item: Monolith</string>
+				</dict>
+				<dict>
+					<key>Additional Settings</key>
+					<dict>
+						<key>Keystroke Keys</key>
+						<array>
+							<dict>
+								<key>Character</key>
+								<string></string>
+								<key>Code</key>
+								<integer>126</integer>
+								<key>Key</key>
+								<string>⇡</string>
+								<key>Modifiers</key>
+								<integer>10486016</integer>
+							</dict>
+						</array>
+					</dict>
+					<key>Hot Key</key>
+					<dict>
+						<key>Applications</key>
+						<dict>
+							<key>Names</key>
+							<string>Finder, Eclipse, Gumbo, Chrome, Google Chrome</string>
+							<key>Rule</key>
+							<string>only</string>
+						</dict>
+						<key>Code</key>
+						<integer>35</integer>
+						<key>Key</key>
+						<string>^P</string>
+						<key>Modifiers</key>
+						<integer>2359553</integer>
+					</dict>
+					<key>Task</key>
+					<string>Keystrokes</string>
+					<key>Title</key>
+					<string>C-p</string>
+					<key>Type</key>
+					<string>Smart Item: Monolith</string>
+				</dict>
+				<dict>
+					<key>Additional Settings</key>
+					<dict>
+						<key>On-the-Fly</key>
+						<true/>
+					</dict>
+					<key>Children</key>
+					<array>
+						<dict>
+							<key>Assigned Abbreviation</key>
+							<string>fin</string>
+							<key>Path</key>
+							<string>/System/Library/CoreServices/Finder.app</string>
+							<key>Title</key>
+							<string>Finder</string>
+							<key>Type</key>
+							<string>File/URL</string>
+						</dict>
+						<dict>
+							<key>Assigned Abbreviation</key>
+							<string>ema</string>
+							<key>Path</key>
+							<string>/Applications/Emacs.app</string>
+							<key>Title</key>
+							<string>Emacs</string>
+							<key>Type</key>
+							<string>File/URL</string>
+						</dict>
+						<dict>
+							<key>Assigned Abbreviation</key>
+							<string>it</string>
+							<key>Path</key>
+							<string>/Applications/iTunes.app</string>
+							<key>Title</key>
+							<string>iTunes</string>
+							<key>Type</key>
+							<string>File/URL</string>
+						</dict>
+						<dict>
+							<key>Assigned Abbreviation</key>
+							<string>w</string>
+							<key>Hot Key</key>
+							<dict>
+								<key>Code</key>
+								<integer>13</integer>
+								<key>Key</key>
+								<string>⌥⌘W</string>
+								<key>Modifiers</key>
+								<integer>1573160</integer>
+							</dict>
+							<key>Path</key>
+							<string>/Applications/Google Chrome.app</string>
+							<key>Title</key>
+							<string>Google Chrome.app</string>
+							<key>Type</key>
+							<string>File/URL</string>
+						</dict>
+					</array>
+					<key>Launch Group</key>
+					<false/>
+					<key>Title</key>
+					<string>On-the-fly abbreviations</string>
+					<key>Type</key>
+					<string>Container</string>
+				</dict>
+				<dict>
+					<key>Additional Settings</key>
+					<dict>
+						<key>Keystroke Keys</key>
+						<array>
+							<dict>
+								<key>Character</key>
+								<string> </string>
+								<key>Code</key>
+								<integer>49</integer>
+								<key>Key</key>
+								<string>⌘Space</string>
+								<key>Modifiers</key>
+								<integer>1048840</integer>
+							</dict>
+							<dict>
+								<key>Delay</key>
+								<string>50</string>
+								<key>Key</key>
+								<string>50 ms</string>
+							</dict>
+							<dict>
+								<key>Character</key>
+								<string>S</string>
+								<key>Code</key>
+								<integer>1</integer>
+								<key>Key</key>
+								<string>⇧S</string>
+								<key>Modifiers</key>
+								<integer>131330</integer>
+							</dict>
+							<dict>
+								<key>Character</key>
+								<string>l</string>
+								<key>Code</key>
+								<integer>37</integer>
+								<key>Key</key>
+								<string>L</string>
+								<key>Modifiers</key>
+								<integer>256</integer>
+							</dict>
+							<dict>
+								<key>Character</key>
+								<string>a</string>
+								<key>Code</key>
+								<integer>0</integer>
+								<key>Key</key>
+								<string>A</string>
+								<key>Modifiers</key>
+								<integer>256</integer>
+							</dict>
+							<dict>
+								<key>Character</key>
+								<string>c</string>
+								<key>Code</key>
+								<integer>8</integer>
+								<key>Key</key>
+								<string>C</string>
+								<key>Modifiers</key>
+								<integer>256</integer>
+							</dict>
+							<dict>
+								<key>Character</key>
+								<string>k</string>
+								<key>Code</key>
+								<integer>40</integer>
+								<key>Key</key>
+								<string>K</string>
+								<key>Modifiers</key>
+								<integer>256</integer>
+							</dict>
+							<dict>
+								<key>Character</key>
+								<string>e</string>
+								<key>Code</key>
+								<integer>14</integer>
+								<key>Key</key>
+								<string>E</string>
+								<key>Modifiers</key>
+								<integer>256</integer>
+							</dict>
+							<dict>
+								<key>Character</key>
+								<string>r</string>
+								<key>Code</key>
+								<integer>15</integer>
+								<key>Key</key>
+								<string>R</string>
+								<key>Modifiers</key>
+								<integer>256</integer>
+							</dict>
+							<dict>
+								<key>Character</key>
+								<string></string>
+								<key>Code</key>
+								<integer>36</integer>
+								<key>Key</key>
+								<string>↵</string>
+								<key>Modifiers</key>
+								<integer>256</integer>
+							</dict>
+							<dict>
+								<key>Delay</key>
+								<string>1000</string>
+								<key>Key</key>
+								<string>1000 ms</string>
+							</dict>
+							<dict>
+								<key>Character</key>
+								<string></string>
+								<key>Code</key>
+								<integer>124</integer>
+								<key>Key</key>
+								<string>⌥⇢</string>
+								<key>Modifiers</key>
+								<integer>11010336</integer>
+							</dict>
+							<dict>
+								<key>Character</key>
+								<string>h</string>
+								<key>Code</key>
+								<integer>4</integer>
+								<key>Key</key>
+								<string>⌘H</string>
+								<key>Modifiers</key>
+								<integer>1048840</integer>
+							</dict>
+						</array>
+					</dict>
+					<key>Task</key>
+					<string>Keystrokes</string>
+					<key>Title</key>
+					<string>SlackNextTrack</string>
+					<key>Type</key>
+					<string>Smart Item: Monolith</string>
+				</dict>
+				<dict>
+					<key>Children</key>
+					<array/>
+					<key>Custom Icon Identifier</key>
+					<string>(Running application)</string>
+					<key>Launch Group</key>
+					<false/>
+					<key>Title</key>
+					<string>Running applications</string>
+					<key>Type</key>
+					<string>Container</string>
+				</dict>
+			</array>
+			<key>Launch Group</key>
+			<false/>
+			<key>Title</key>
+			<string>Hidden</string>
+			<key>Type</key>
+			<string>Top-Level Container: Hidden</string>
+		</dict>
+		<dict>
+			<key>Children</key>
+			<array/>
+			<key>Launch Group</key>
+			<false/>
+			<key>Title</key>
+			<string>Menu Bar (Left)</string>
+			<key>Type</key>
+			<string>Top-Level Container: Menu Bar</string>
+		</dict>
+		<dict>
+			<key>Children</key>
+			<array>
+				<dict>
+					<key>Children</key>
+					<array>
+						<dict>
+							<key>Children</key>
+							<array>
+								<dict>
+									<key>Content</key>
+									<string>Fast user switching</string>
+									<key>Type</key>
+									<string>Smart Item: List</string>
+								</dict>
+								<dict>
+									<key>Type</key>
+									<string>Separator</string>
+								</dict>
+								<dict>
+									<key>Additional Settings</key>
+									<dict>
+										<key>Use Small Font</key>
+										<true/>
+									</dict>
+									<key>Title</key>
+									<string>To save some menu bar space, deactivate fast</string>
+									<key>Type</key>
+									<string>Comment</string>
+								</dict>
+								<dict>
+									<key>Additional Settings</key>
+									<dict>
+										<key>Use Small Font</key>
+										<true/>
+									</dict>
+									<key>Title</key>
+									<string>user switching in the "User" pane of your system</string>
+									<key>Type</key>
+									<string>Comment</string>
+								</dict>
+								<dict>
+									<key>Additional Settings</key>
+									<dict>
+										<key>Use Small Font</key>
+										<true/>
+									</dict>
+									<key>Title</key>
+									<string>preferences and use this menu instead.</string>
+									<key>Type</key>
+									<string>Comment</string>
+								</dict>
+								<dict>
+									<key>Type</key>
+									<string>Separator</string>
+								</dict>
+								<dict>
+									<key>Custom Icon Identifier</key>
+									<string>(None)</string>
+									<key>Task</key>
+									<string>Log-in window</string>
+									<key>Title</key>
+									<string>Log-in window</string>
+									<key>Type</key>
+									<string>Smart Item: Monolith</string>
+								</dict>
+							</array>
+							<key>Custom Icon Identifier</key>
+							<string>(User picture)</string>
+							<key>Launch Group</key>
+							<false/>
+							<key>Title</key>
+							<string>Switch users</string>
+							<key>Type</key>
+							<string>Container</string>
+						</dict>
+						<dict>
+							<key>Children</key>
+							<array>
+								<dict>
+									<key>Content</key>
+									<string>Volumes</string>
+									<key>Type</key>
+									<string>Smart Item: List</string>
+								</dict>
+								<dict>
+									<key>Type</key>
+									<string>Separator</string>
+								</dict>
+								<dict>
+									<key>Additional Settings</key>
+									<dict>
+										<key>Use Small Font</key>
+										<true/>
+									</dict>
+									<key>Title</key>
+									<string>Dragging the "Volumes" Smart Item to the</string>
+									<key>Type</key>
+									<string>Comment</string>
+								</dict>
+								<dict>
+									<key>Additional Settings</key>
+									<dict>
+										<key>Use Small Font</key>
+										<true/>
+									</dict>
+									<key>Title</key>
+									<string>top level of your configuration will give</string>
+									<key>Type</key>
+									<string>Comment</string>
+								</dict>
+								<dict>
+									<key>Additional Settings</key>
+									<dict>
+										<key>Use Small Font</key>
+										<true/>
+									</dict>
+									<key>Title</key>
+									<string>you a menu bar icon for each volume.</string>
+									<key>Type</key>
+									<string>Comment</string>
+								</dict>
+							</array>
+							<key>Custom Icon Identifier</key>
+							<string>menu_imac3</string>
+							<key>Launch Group</key>
+							<false/>
+							<key>Title</key>
+							<string>Volumes</string>
+							<key>Type</key>
+							<string>Container</string>
+						</dict>
+						<dict>
+							<key>Children</key>
+							<array>
+								<dict>
+									<key>Title</key>
+									<string>Running applications</string>
+									<key>Type</key>
+									<string>Comment</string>
+								</dict>
+								<dict>
+									<key>Content</key>
+									<string>Running applications</string>
+									<key>Type</key>
+									<string>Smart Item: List</string>
+								</dict>
+								<dict>
+									<key>Type</key>
+									<string>Separator</string>
+								</dict>
+								<dict>
+									<key>Children</key>
+									<array>
+										<dict>
+											<key>Content</key>
+											<string>Applications</string>
+											<key>Type</key>
+											<string>Smart Item: List</string>
+										</dict>
+									</array>
+									<key>Custom Icon Identifier</key>
+									<string>app_aapp</string>
+									<key>Launch Group</key>
+									<false/>
+									<key>Title</key>
+									<string>All applications</string>
+									<key>Type</key>
+									<string>Container</string>
+								</dict>
+								<dict>
+									<key>Children</key>
+									<array>
+										<dict>
+											<key>Content</key>
+											<string>Scripts Menu</string>
+											<key>Type</key>
+											<string>Smart Item: List</string>
+										</dict>
+									</array>
+									<key>Custom Icon Identifier</key>
+									<string>menu_applescript</string>
+									<key>Launch Group</key>
+									<false/>
+									<key>Title</key>
+									<string>AppleScripts</string>
+									<key>Type</key>
+									<string>Container</string>
+								</dict>
+							</array>
+							<key>Custom Icon Identifier</key>
+							<string>(Running application)</string>
+							<key>Launch Group</key>
+							<false/>
+							<key>Title</key>
+							<string>Applications</string>
+							<key>Type</key>
+							<string>Container</string>
+						</dict>
+						<dict>
+							<key>Children</key>
+							<array>
+								<dict>
+									<key>Content</key>
+									<string>System preferences</string>
+									<key>Type</key>
+									<string>Smart Item: List</string>
+								</dict>
+							</array>
+							<key>Custom Icon Identifier</key>
+							<string>menu_preferences</string>
+							<key>Launch Group</key>
+							<false/>
+							<key>Title</key>
+							<string>System preferences</string>
+							<key>Type</key>
+							<string>Container</string>
+						</dict>
+						<dict>
+							<key>Children</key>
+							<array>
+								<dict>
+									<key>Abbreviation Search Enabled</key>
+									<false/>
+									<key>Abbreviation Search Recursion</key>
+									<integer>3</integer>
+									<key>Path</key>
+									<string>~/Documents</string>
+									<key>Type</key>
+									<string>Folder Content</string>
+								</dict>
+							</array>
+							<key>Custom Icon Identifier</key>
+							<string>file://localhost/Users/peter/Documents/</string>
+							<key>Launch Group</key>
+							<false/>
+							<key>Title</key>
+							<string>Documents</string>
+							<key>Type</key>
+							<string>Container</string>
+						</dict>
+						<dict>
+							<key>Children</key>
+							<array>
+								<dict>
+									<key>Title</key>
+									<string>Now playing…</string>
+									<key>Type</key>
+									<string>Comment</string>
+								</dict>
+								<dict>
+									<key>Task</key>
+									<string>iTunes: Information</string>
+									<key>Title</key>
+									<string>iTunes: Information</string>
+									<key>Type</key>
+									<string>Smart Item: Monolith</string>
+								</dict>
+								<dict>
+									<key>Type</key>
+									<string>Separator</string>
+								</dict>
+								<dict>
+									<key>Children</key>
+									<array>
+										<dict>
+											<key>Custom Icon Identifier</key>
+											<string>(None)</string>
+											<key>Task</key>
+											<string>iTunes: ★☆☆☆☆</string>
+											<key>Title</key>
+											<string>★</string>
+											<key>Type</key>
+											<string>Smart Item: Monolith</string>
+										</dict>
+										<dict>
+											<key>Custom Icon Identifier</key>
+											<string>(None)</string>
+											<key>Task</key>
+											<string>iTunes: ★★☆☆☆</string>
+											<key>Title</key>
+											<string>★★</string>
+											<key>Type</key>
+											<string>Smart Item: Monolith</string>
+										</dict>
+										<dict>
+											<key>Custom Icon Identifier</key>
+											<string>(None)</string>
+											<key>Task</key>
+											<string>iTunes: ★★★☆☆</string>
+											<key>Title</key>
+											<string>★★★</string>
+											<key>Type</key>
+											<string>Smart Item: Monolith</string>
+										</dict>
+										<dict>
+											<key>Custom Icon Identifier</key>
+											<string>(None)</string>
+											<key>Task</key>
+											<string>iTunes: ★★★★☆</string>
+											<key>Title</key>
+											<string>★★★★</string>
+											<key>Type</key>
+											<string>Smart Item: Monolith</string>
+										</dict>
+										<dict>
+											<key>Custom Icon Identifier</key>
+											<string>(None)</string>
+											<key>Task</key>
+											<string>iTunes: ★★★★★</string>
+											<key>Title</key>
+											<string>★★★★★</string>
+											<key>Type</key>
+											<string>Smart Item: Monolith</string>
+										</dict>
+										<dict>
+											<key>Type</key>
+											<string>Separator</string>
+										</dict>
+										<dict>
+											<key>Custom Icon Identifier</key>
+											<string>(None)</string>
+											<key>Task</key>
+											<string>iTunes: ☆☆☆☆☆</string>
+											<key>Title</key>
+											<string>No rating</string>
+											<key>Type</key>
+											<string>Smart Item: Monolith</string>
+										</dict>
+									</array>
+									<key>Custom Icon Identifier</key>
+									<string>(None)</string>
+									<key>Launch Group</key>
+									<false/>
+									<key>Title</key>
+									<string>Rating</string>
+									<key>Type</key>
+									<string>Container</string>
+								</dict>
+								<dict>
+									<key>Children</key>
+									<array>
+										<dict>
+											<key>Hot Key</key>
+											<dict>
+												<key>Code</key>
+												<integer>115</integer>
+												<key>Key</key>
+												<string>^⌘↖</string>
+												<key>Modifiers</key>
+												<integer>9699593</integer>
+											</dict>
+											<key>Task</key>
+											<string>iTunes: Start / Stop</string>
+											<key>Title</key>
+											<string>Start/Stop</string>
+											<key>Type</key>
+											<string>Smart Item: Monolith</string>
+										</dict>
+										<dict>
+											<key>Hot Key</key>
+											<dict>
+												<key>Code</key>
+												<integer>116</integer>
+												<key>Key</key>
+												<string>^⌘⇞</string>
+												<key>Modifiers</key>
+												<integer>9699593</integer>
+											</dict>
+											<key>Task</key>
+											<string>iTunes: Previous track</string>
+											<key>Title</key>
+											<string>Previous track</string>
+											<key>Type</key>
+											<string>Smart Item: Monolith</string>
+										</dict>
+										<dict>
+											<key>Hot Key</key>
+											<dict>
+												<key>Code</key>
+												<integer>121</integer>
+												<key>Key</key>
+												<string>^⌘⇟</string>
+												<key>Modifiers</key>
+												<integer>9699593</integer>
+											</dict>
+											<key>Task</key>
+											<string>iTunes: Next track</string>
+											<key>Title</key>
+											<string>Next track</string>
+											<key>Type</key>
+											<string>Smart Item: Monolith</string>
+										</dict>
+									</array>
+									<key>Custom Icon Identifier</key>
+									<string>(None)</string>
+									<key>Launch Group</key>
+									<false/>
+									<key>Title</key>
+									<string>Controls</string>
+									<key>Type</key>
+									<string>Container</string>
+								</dict>
+								<dict>
+									<key>Type</key>
+									<string>Separator</string>
+								</dict>
+								<dict>
+									<key>Title</key>
+									<string>Playlists</string>
+									<key>Type</key>
+									<string>Comment</string>
+								</dict>
+								<dict>
+									<key>Additional Settings</key>
+									<dict>
+										<key>Mode</key>
+										<integer>0</integer>
+									</dict>
+									<key>Content</key>
+									<string>iTunes: Music</string>
+									<key>Type</key>
+									<string>Smart Item: List</string>
+								</dict>
+								<dict>
+									<key>Type</key>
+									<string>Separator</string>
+								</dict>
+								<dict>
+									<key>Children</key>
+									<array>
+										<dict>
+											<key>Additional Settings</key>
+											<dict>
+												<key>Mode</key>
+												<integer>1</integer>
+											</dict>
+											<key>Content</key>
+											<string>iTunes: Music</string>
+											<key>Type</key>
+											<string>Smart Item: List</string>
+										</dict>
+									</array>
+									<key>Custom Icon Identifier</key>
+									<string>itunes_library</string>
+									<key>Launch Group</key>
+									<false/>
+									<key>Title</key>
+									<string>Library</string>
+									<key>Type</key>
+									<string>Container</string>
+								</dict>
+							</array>
+							<key>Custom Icon Identifier</key>
+							<string>app_itunes</string>
+							<key>Launch Group</key>
+							<false/>
+							<key>Title</key>
+							<string>Music</string>
+							<key>Type</key>
+							<string>Container</string>
+						</dict>
+						<dict>
+							<key>Type</key>
+							<string>Separator</string>
+						</dict>
+						<dict>
+							<key>Children</key>
+							<array>
+								<dict>
+									<key>Title</key>
+									<string>Recent pasteboards</string>
+									<key>Type</key>
+									<string>Comment</string>
+								</dict>
+								<dict>
+									<key>Children</key>
+									<array>
+										<dict>
+											<key>Content</key>
+											<string>Recent pasteboards: Menu</string>
+											<key>Type</key>
+											<string>Smart Item: List</string>
+										</dict>
+									</array>
+									<key>Custom Icon Identifier</key>
+									<string>(None)</string>
+									<key>Hot Key</key>
+									<dict>
+										<key>Applications</key>
+										<dict>
+											<key>Names</key>
+											<string></string>
+											<key>Rule</key>
+											<string>only</string>
+										</dict>
+										<key>Code</key>
+										<integer>16</integer>
+										<key>Key</key>
+										<string>⌥Y</string>
+										<key>Modifiers</key>
+										<integer>2621728</integer>
+									</dict>
+									<key>Launch Group</key>
+									<false/>
+									<key>Title</key>
+									<string>Paste and change order...</string>
+									<key>Type</key>
+									<string>Container</string>
+								</dict>
+								<dict>
+									<key>Children</key>
+									<array>
+										<dict>
+											<key>Additional Settings</key>
+											<dict>
+												<key>Static Post-Pasting Order</key>
+												<true/>
+											</dict>
+											<key>Content</key>
+											<string>Recent pasteboards: Menu</string>
+											<key>Type</key>
+											<string>Smart Item: List</string>
+										</dict>
+									</array>
+									<key>Custom Icon Identifier</key>
+									<string>(None)</string>
+									<key>Launch Group</key>
+									<false/>
+									<key>Title</key>
+									<string>Paste and keep order...</string>
+									<key>Type</key>
+									<string>Container</string>
+								</dict>
+								<dict>
+									<key>Custom Icon Identifier</key>
+									<string>(None)</string>
+									<key>Task</key>
+									<string>Recent pasteboards: Window</string>
+									<key>Title</key>
+									<string>Organize recent pasteboards…</string>
+									<key>Type</key>
+									<string>Smart Item: Monolith</string>
+								</dict>
+								<dict>
+									<key>Type</key>
+									<string>Separator</string>
+								</dict>
+								<dict>
+									<key>Title</key>
+									<string>Custom pasteboard sample</string>
+									<key>Type</key>
+									<string>Comment</string>
+								</dict>
+								<dict>
+									<key>Additional Settings</key>
+									<dict>
+										<key>Custom Pasteboard</key>
+										<dict>
+											<key>CorePasteboardFlavorType 0x54455854</key>
+											<data>
+								DUJ1dGxlcg==
+											</data>
+											<key>CorePasteboardFlavorType 0x7374796C</key>
+											<data>
+								AAIAAAAAABEA
+								DgQAAJUADgAA
+								AAAAAAAAAAEA
+								HgAZBAABlQAa
+								qqoCAgAA
+											</data>
+											<key>CorePasteboardFlavorType 0x7573746C</key>
+											<data>
+								AAAAAgAAARAA
+								AAAAAAAAFAAA
+								ACgAAAACAAAA
+								AQAAAAAAAAAG
+								AAAAAQAAAAIA
+								AABwAAAABAAA
+								AAAAAAAAAAAB
+								AgAAAAEAAAAA
+								AAABBQAAADBu
+								YW1kAAAAKAAA
+								AAEAAAAEAAAA
+								AQAAAAAAAAAA
+								AAAADUx1Y2lk
+								YSBHcmFuZGUA
+								AAAAAAEGAAAA
+								BAAOAAAAAAEH
+								AAAABgAAAAAA
+								AAAAAAAAdAAA
+								AAQAAAAAAAAA
+								AAAAAQIAAAAB
+								AAAAAAAAAQUA
+								AAA0bmFtZAAA
+								ACwAAAABAAAA
+								BAAAAAEAAAAA
+								AAAAAAAAABJM
+								dWNpZGEgR3Jh
+								bmRlIEJvbGQA
+								AAAAAQYAAAAE
+								ABoAAAAAAQcA
+								AAAGqqoCAgAA
+								AAA=
+											</data>
+											<key>CorePasteboardFlavorType 0x75747874</key>
+											<data>
+								AA0AQgB1AHQA
+								bABlAHI=
+											</data>
+											<key>NSStringPboardType</key>
+											<data>
+								CkJ1dGxlcg==
+											</data>
+											<key>NeXT Rich Text Format v1.0 pasteboard type</key>
+											<data>
+								e1xydGYxXG1h
+								Y1xhbnNpY3Bn
+								MTAwMDBcY29j
+								b2FydGYxMDIK
+								e1xmb250dGJs
+								XGYwXGZuaWxc
+								ZmNoYXJzZXQ3
+								NyBMdWNpZGFH
+								cmFuZGU7XGYx
+								XGZuaWxcZmNo
+								YXJzZXQ3NyBM
+								dWNpZGFHcmFu
+								ZGUtQm9sZDt9
+								CntcY29sb3J0
+								Ymw7XHJlZDI1
+								NVxncmVlbjI1
+								NVxibHVlMjU1
+								O1xyZWQxNzBc
+								Z3JlZW4yXGJs
+								dWUwO30KXHBh
+								cmRcdHg1NjVc
+								dHgxMTMzXHR4
+								MTcwMFx0eDIy
+								NjZcdHgyODMz
+								XHR4MzQwMVx0
+								eDM5NjdcdHg0
+								NTM1XHR4NTEw
+								Mlx0eDU2Njlc
+								dHg2MjM1XHR4
+								NjgwMlxxbFxx
+								bmF0dXJhbAoK
+								XGYwXGZzMjgg
+								XGNmMCBcClxw
+								YXJkXHR4NTY1
+								XHR4MTEzM1x0
+								eDE3MDBcdHgy
+								MjY2XHR4Mjgz
+								M1x0eDM0MDFc
+								dHgzOTY3XHR4
+								NDUzNVx0eDUx
+								MDJcdHg1NjY5
+								XHR4NjIzNVx0
+								eDY4MDJccWMK
+								ClxmMVxiXGZz
+								NTIgXGNmMiBC
+								dXRsZXJ9
+											</data>
+											<key>NeXT plain ascii pasteboard type</key>
+											<data>
+								CkJ1dGxlcg==
+											</data>
+										</dict>
+									</dict>
+									<key>Task</key>
+									<string>Custom pasteboard</string>
+									<key>Title</key>
+									<string>Custom pasteboard sample</string>
+									<key>Type</key>
+									<string>Smart Item: Monolith</string>
+								</dict>
+							</array>
+							<key>Custom Icon Identifier</key>
+							<string>menu_pasteboard</string>
+							<key>Launch Group</key>
+							<false/>
+							<key>Title</key>
+							<string>Pasteboard</string>
+							<key>Type</key>
+							<string>Container</string>
+						</dict>
+						<dict>
+							<key>Children</key>
+							<array>
+								<dict>
+									<key>Additional Settings</key>
+									<dict>
+										<key>Use Small Font</key>
+										<true/>
+									</dict>
+									<key>Title</key>
+									<string>Switch to a text editor to run this sample.</string>
+									<key>Type</key>
+									<string>Comment</string>
+								</dict>
+								<dict>
+									<key>Additional Settings</key>
+									<dict>
+										<key>Use Small Font</key>
+										<true/>
+									</dict>
+									<key>Title</key>
+									<string>Depending on your keyboard mapping,</string>
+									<key>Type</key>
+									<string>Comment</string>
+								</dict>
+								<dict>
+									<key>Additional Settings</key>
+									<dict>
+										<key>Use Small Font</key>
+										<true/>
+									</dict>
+									<key>Title</key>
+									<string>this might not work quite as expected.</string>
+									<key>Type</key>
+									<string>Comment</string>
+								</dict>
+								<dict>
+									<key>Type</key>
+									<string>Separator</string>
+								</dict>
+								<dict>
+									<key>Additional Settings</key>
+									<dict>
+										<key>Keystroke Keys</key>
+										<array>
+											<dict>
+												<key>Character</key>
+												<string>B</string>
+												<key>Code</key>
+												<integer>11</integer>
+												<key>Key</key>
+												<string>⇧B</string>
+												<key>Modifiers</key>
+												<integer>131330</integer>
+											</dict>
+											<dict>
+												<key>Character</key>
+												<string>u</string>
+												<key>Code</key>
+												<integer>32</integer>
+												<key>Key</key>
+												<string>U</string>
+												<key>Modifiers</key>
+												<integer>256</integer>
+											</dict>
+											<dict>
+												<key>Character</key>
+												<string>t</string>
+												<key>Code</key>
+												<integer>17</integer>
+												<key>Key</key>
+												<string>T</string>
+												<key>Modifiers</key>
+												<integer>256</integer>
+											</dict>
+											<dict>
+												<key>Character</key>
+												<string>l</string>
+												<key>Code</key>
+												<integer>37</integer>
+												<key>Key</key>
+												<string>L</string>
+												<key>Modifiers</key>
+												<integer>256</integer>
+											</dict>
+											<dict>
+												<key>Character</key>
+												<string>e</string>
+												<key>Code</key>
+												<integer>14</integer>
+												<key>Key</key>
+												<string>E</string>
+												<key>Modifiers</key>
+												<integer>256</integer>
+											</dict>
+											<dict>
+												<key>Character</key>
+												<string>r</string>
+												<key>Code</key>
+												<integer>15</integer>
+												<key>Key</key>
+												<string>R</string>
+												<key>Modifiers</key>
+												<integer>256</integer>
+											</dict>
+											<dict>
+												<key>Character</key>
+												<string> </string>
+												<key>Code</key>
+												<integer>49</integer>
+												<key>Key</key>
+												<string>Space</string>
+												<key>Modifiers</key>
+												<integer>256</integer>
+											</dict>
+											<dict>
+												<key>Character</key>
+												<string>i</string>
+												<key>Code</key>
+												<integer>34</integer>
+												<key>Key</key>
+												<string>I</string>
+												<key>Modifiers</key>
+												<integer>256</integer>
+											</dict>
+											<dict>
+												<key>Character</key>
+												<string>s</string>
+												<key>Code</key>
+												<integer>1</integer>
+												<key>Key</key>
+												<string>S</string>
+												<key>Modifiers</key>
+												<integer>256</integer>
+											</dict>
+											<dict>
+												<key>Character</key>
+												<string> </string>
+												<key>Code</key>
+												<integer>49</integer>
+												<key>Key</key>
+												<string>Space</string>
+												<key>Modifiers</key>
+												<integer>256</integer>
+											</dict>
+											<dict>
+												<key>Character</key>
+												<string>c</string>
+												<key>Code</key>
+												<integer>8</integer>
+												<key>Key</key>
+												<string>C</string>
+												<key>Modifiers</key>
+												<integer>256</integer>
+											</dict>
+											<dict>
+												<key>Character</key>
+												<string>r</string>
+												<key>Code</key>
+												<integer>15</integer>
+												<key>Key</key>
+												<string>R</string>
+												<key>Modifiers</key>
+												<integer>256</integer>
+											</dict>
+											<dict>
+												<key>Character</key>
+												<string>a</string>
+												<key>Code</key>
+												<integer>0</integer>
+												<key>Key</key>
+												<string>A</string>
+												<key>Modifiers</key>
+												<integer>256</integer>
+											</dict>
+											<dict>
+												<key>Character</key>
+												<string>p</string>
+												<key>Code</key>
+												<integer>35</integer>
+												<key>Key</key>
+												<string>P</string>
+												<key>Modifiers</key>
+												<integer>256</integer>
+											</dict>
+											<dict>
+												<key>Delay</key>
+												<string>500</string>
+												<key>Key</key>
+												<string>500 ms</string>
+											</dict>
+											<dict>
+												<key>Character</key>
+												<string> </string>
+												<key>Code</key>
+												<integer>49</integer>
+												<key>Key</key>
+												<string>Space</string>
+												<key>Modifiers</key>
+												<integer>256</integer>
+											</dict>
+											<dict>
+												<key>Character</key>
+												<string> </string>
+												<key>Code</key>
+												<integer>49</integer>
+												<key>Key</key>
+												<string>Space</string>
+												<key>Modifiers</key>
+												<integer>256</integer>
+											</dict>
+											<dict>
+												<key>Character</key>
+												<string> </string>
+												<key>Code</key>
+												<integer>49</integer>
+												<key>Key</key>
+												<string>Space</string>
+												<key>Modifiers</key>
+												<integer>256</integer>
+											</dict>
+											<dict>
+												<key>Character</key>
+												<string> </string>
+												<key>Code</key>
+												<integer>49</integer>
+												<key>Key</key>
+												<string>Space</string>
+												<key>Modifiers</key>
+												<integer>256</integer>
+											</dict>
+											<dict>
+												<key>Character</key>
+												<string>O</string>
+												<key>Code</key>
+												<integer>31</integer>
+												<key>Key</key>
+												<string>⇧O</string>
+												<key>Modifiers</key>
+												<integer>131330</integer>
+											</dict>
+											<dict>
+												<key>Character</key>
+												<string>o</string>
+												<key>Code</key>
+												<integer>31</integer>
+												<key>Key</key>
+												<string>O</string>
+												<key>Modifiers</key>
+												<integer>256</integer>
+											</dict>
+											<dict>
+												<key>Character</key>
+												<string>o</string>
+												<key>Code</key>
+												<integer>31</integer>
+												<key>Key</key>
+												<string>O</string>
+												<key>Modifiers</key>
+												<integer>256</integer>
+											</dict>
+											<dict>
+												<key>Character</key>
+												<string>p</string>
+												<key>Code</key>
+												<integer>35</integer>
+												<key>Key</key>
+												<string>P</string>
+												<key>Modifiers</key>
+												<integer>256</integer>
+											</dict>
+											<dict>
+												<key>Character</key>
+												<string>s</string>
+												<key>Code</key>
+												<integer>1</integer>
+												<key>Key</key>
+												<string>S</string>
+												<key>Modifiers</key>
+												<integer>256</integer>
+											</dict>
+											<dict>
+												<key>Delay</key>
+												<string>500</string>
+												<key>Key</key>
+												<string>500 ms</string>
+											</dict>
+											<dict>
+												<key>Character</key>
+												<string></string>
+												<key>Code</key>
+												<integer>51</integer>
+												<key>Key</key>
+												<string>⌫</string>
+												<key>Modifiers</key>
+												<integer>256</integer>
+											</dict>
+											<dict>
+												<key>Character</key>
+												<string></string>
+												<key>Code</key>
+												<integer>51</integer>
+												<key>Key</key>
+												<string>⌫</string>
+												<key>Modifiers</key>
+												<integer>256</integer>
+											</dict>
+											<dict>
+												<key>Character</key>
+												<string></string>
+												<key>Code</key>
+												<integer>51</integer>
+												<key>Key</key>
+												<string>⌫</string>
+												<key>Modifiers</key>
+												<integer>256</integer>
+											</dict>
+											<dict>
+												<key>Character</key>
+												<string></string>
+												<key>Code</key>
+												<integer>51</integer>
+												<key>Key</key>
+												<string>⌫</string>
+												<key>Modifiers</key>
+												<integer>256</integer>
+											</dict>
+											<dict>
+												<key>Character</key>
+												<string></string>
+												<key>Code</key>
+												<integer>51</integer>
+												<key>Key</key>
+												<string>⌫</string>
+												<key>Modifiers</key>
+												<integer>256</integer>
+											</dict>
+											<dict>
+												<key>Character</key>
+												<string></string>
+												<key>Code</key>
+												<integer>51</integer>
+												<key>Key</key>
+												<string>⌫</string>
+												<key>Modifiers</key>
+												<integer>256</integer>
+											</dict>
+											<dict>
+												<key>Character</key>
+												<string></string>
+												<key>Code</key>
+												<integer>51</integer>
+												<key>Key</key>
+												<string>⌫</string>
+												<key>Modifiers</key>
+												<integer>256</integer>
+											</dict>
+											<dict>
+												<key>Character</key>
+												<string></string>
+												<key>Code</key>
+												<integer>51</integer>
+												<key>Key</key>
+												<string>⌫</string>
+												<key>Modifiers</key>
+												<integer>256</integer>
+											</dict>
+											<dict>
+												<key>Character</key>
+												<string></string>
+												<key>Code</key>
+												<integer>51</integer>
+												<key>Key</key>
+												<string>⌫</string>
+												<key>Modifiers</key>
+												<integer>256</integer>
+											</dict>
+											<dict>
+												<key>Character</key>
+												<string></string>
+												<key>Code</key>
+												<integer>51</integer>
+												<key>Key</key>
+												<string>⌫</string>
+												<key>Modifiers</key>
+												<integer>256</integer>
+											</dict>
+											<dict>
+												<key>Character</key>
+												<string></string>
+												<key>Code</key>
+												<integer>51</integer>
+												<key>Key</key>
+												<string>⌫</string>
+												<key>Modifiers</key>
+												<integer>256</integer>
+											</dict>
+											<dict>
+												<key>Character</key>
+												<string></string>
+												<key>Code</key>
+												<integer>51</integer>
+												<key>Key</key>
+												<string>⌫</string>
+												<key>Modifiers</key>
+												<integer>256</integer>
+											</dict>
+											<dict>
+												<key>Character</key>
+												<string></string>
+												<key>Code</key>
+												<integer>51</integer>
+												<key>Key</key>
+												<string>⌫</string>
+												<key>Modifiers</key>
+												<integer>256</integer>
+											</dict>
+											<dict>
+												<key>Character</key>
+												<string>g</string>
+												<key>Code</key>
+												<integer>5</integer>
+												<key>Key</key>
+												<string>G</string>
+												<key>Modifiers</key>
+												<integer>256</integer>
+											</dict>
+											<dict>
+												<key>Character</key>
+												<string>r</string>
+												<key>Code</key>
+												<integer>15</integer>
+												<key>Key</key>
+												<string>R</string>
+												<key>Modifiers</key>
+												<integer>256</integer>
+											</dict>
+											<dict>
+												<key>Character</key>
+												<string>e</string>
+												<key>Code</key>
+												<integer>14</integer>
+												<key>Key</key>
+												<string>E</string>
+												<key>Modifiers</key>
+												<integer>256</integer>
+											</dict>
+											<dict>
+												<key>Character</key>
+												<string>a</string>
+												<key>Code</key>
+												<integer>0</integer>
+												<key>Key</key>
+												<string>A</string>
+												<key>Modifiers</key>
+												<integer>256</integer>
+											</dict>
+											<dict>
+												<key>Character</key>
+												<string>t</string>
+												<key>Code</key>
+												<integer>17</integer>
+												<key>Key</key>
+												<string>T</string>
+												<key>Modifiers</key>
+												<integer>256</integer>
+											</dict>
+											<dict>
+												<key>Character</key>
+												<string>
+</string>
+												<key>Code</key>
+												<integer>36</integer>
+												<key>Key</key>
+												<string>↵</string>
+												<key>Modifiers</key>
+												<integer>256</integer>
+											</dict>
+										</array>
+									</dict>
+									<key>Task</key>
+									<string>Keystrokes</string>
+									<key>Title</key>
+									<string>Give it a try…</string>
+									<key>Type</key>
+									<string>Smart Item: Monolith</string>
+								</dict>
+							</array>
+							<key>Custom Icon Identifier</key>
+							<string>menu_key</string>
+							<key>Launch Group</key>
+							<false/>
+							<key>Title</key>
+							<string>Keystrokes sample</string>
+							<key>Type</key>
+							<string>Container</string>
+						</dict>
+						<dict>
+							<key>Type</key>
+							<string>Separator</string>
+						</dict>
+						<dict>
+							<key>Children</key>
+							<array>
+								<dict>
+									<key>Additional Settings</key>
+									<dict>
+										<key>Assigned Abbreviations Only</key>
+										<false/>
+										<key>Postpone Searching</key>
+										<false/>
+										<key>Postpone Searching Interval</key>
+										<integer>100</integer>
+									</dict>
+									<key>Task</key>
+									<string>Enter abbreviation...</string>
+									<key>Title</key>
+									<string>Enter abbreviation...</string>
+									<key>Type</key>
+									<string>Control</string>
+								</dict>
+								<dict>
+									<key>Type</key>
+									<string>Separator</string>
+								</dict>
+								<dict>
+									<key>Task</key>
+									<string>Customize configuration...</string>
+									<key>Title</key>
+									<string>Customize...</string>
+									<key>Type</key>
+									<string>Control</string>
+								</dict>
+								<dict>
+									<key>Task</key>
+									<string>Search configuration...</string>
+									<key>Title</key>
+									<string>Search configuration...</string>
+									<key>Type</key>
+									<string>Control</string>
+								</dict>
+								<dict>
+									<key>Task</key>
+									<string>Help</string>
+									<key>Title</key>
+									<string>Help!</string>
+									<key>Type</key>
+									<string>Control</string>
+								</dict>
+								<dict>
+									<key>Type</key>
+									<string>Separator</string>
+								</dict>
+								<dict>
+									<key>Task</key>
+									<string>Preferences</string>
+									<key>Title</key>
+									<string>Preferences</string>
+									<key>Type</key>
+									<string>Control</string>
+								</dict>
+								<dict>
+									<key>Type</key>
+									<string>Separator</string>
+								</dict>
+								<dict>
+									<key>Task</key>
+									<string>Update</string>
+									<key>Title</key>
+									<string>Update</string>
+									<key>Type</key>
+									<string>Control</string>
+								</dict>
+								<dict>
+									<key>Task</key>
+									<string>Quit</string>
+									<key>Title</key>
+									<string>Quit</string>
+									<key>Type</key>
+									<string>Control</string>
+								</dict>
+							</array>
+							<key>Custom Icon Identifier</key>
+							<string>menu_butler</string>
+							<key>Launch Group</key>
+							<false/>
+							<key>Title</key>
+							<string>Butler</string>
+							<key>Type</key>
+							<string>Container</string>
+						</dict>
+					</array>
+					<key>Custom Icon Identifier</key>
+					<string>menu_imac3</string>
+					<key>Launch Group</key>
+					<false/>
+					<key>Title</key>
+					<string>This Mac</string>
+					<key>Type</key>
+					<string>Container</string>
+				</dict>
+			</array>
+			<key>Launch Group</key>
+			<false/>
+			<key>Title</key>
+			<string>Menu Bar (Natural)</string>
+			<key>Type</key>
+			<string>Top-Level Container: Menu Bar</string>
+		</dict>
+		<dict>
+			<key>Children</key>
+			<array/>
+			<key>Launch Group</key>
+			<false/>
+			<key>Title</key>
+			<string>Menu Bar (Center)</string>
+			<key>Type</key>
+			<string>Top-Level Container: Menu Bar</string>
+		</dict>
+		<dict>
+			<key>Children</key>
+			<array/>
+			<key>Launch Group</key>
+			<false/>
+			<key>Title</key>
+			<string>Menu Bar (Right)</string>
+			<key>Type</key>
+			<string>Top-Level Container: Menu Bar</string>
+		</dict>
+		<dict>
+			<key>Children</key>
+			<array/>
+			<key>Launch Group</key>
+			<false/>
+			<key>Title</key>
+			<string>Docklet</string>
+			<key>Type</key>
+			<string>Top-Level Container: Docklet</string>
+		</dict>
+	</array>
+	<key>Launch Group</key>
+	<false/>
+	<key>PM Resource ID</key>
+	<dict>
+		<key>Root</key>
+		<true/>
+		<key>Type</key>
+		<string>Butler Configuration Items</string>
+		<key>Version</key>
+		<real>1</real>
+	</dict>
+	<key>Title</key>
+	<string></string>
+	<key>Type</key>
+	<string>Configuration</string>
+</dict>
+</plist>
